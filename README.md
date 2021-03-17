@@ -68,6 +68,12 @@ Install modules:
 
 ```npm i```
 
+Create a ```.env``` file and add the following inside:
+```
+REACT_APP_API_URL=http://localhost:8080
+```
+(Or wherever you are serving the backend)
+
 Then run the server:
 
 ```npm start```
