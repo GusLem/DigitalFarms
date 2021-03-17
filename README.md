@@ -5,6 +5,8 @@
 
 <p align="center">
   <img alt="GitHub" src="https://img.shields.io/github/license/guslem/digitalfarms.svg">
+  <br/>
+  <a target="_blank" href="https://digital-farms.netlify.app"><img alt "Netlify App" src="https://api.netlify.com/api/v1/badges/12c2b728-eb72-450b-aca6-b0bc5938ac6a/deploy-status"></a>
 </p>
 
 <p align="center">
@@ -38,7 +40,7 @@ Frontend:
 
 To see the site working, click the following link:
 
-InsertNetlifyButtonHere
+[![Netlify Status](https://api.netlify.com/api/v1/badges/12c2b728-eb72-450b-aca6-b0bc5938ac6a/deploy-status)](https://digital-farms.netlify.app)
 
 To serve the site, first check if you have these installed:
 
