@@ -40,7 +40,13 @@ To see the site working, click the following link:
 
 InsertNetlifyButtonHere
 
-To serve the site, clone this repository with the following command:
+To serve the site, first check if you have these installed:
+
+- Git
+- NodeJS and npm
+- PostgreSQL
+
+Then clone this repository with this command:
 
 ```bash
 git clone https://github.com/GusLem/DigitalFarms --recursive
