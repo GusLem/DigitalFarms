@@ -1,0 +1,3 @@
+[submodule "digitalfarms-frontend"]
+	path = digitalfarms-frontend
+	url = https://github.com/GusLem/digitalfarms-frontend
