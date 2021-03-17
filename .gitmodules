@@ -1,3 +1,6 @@
 [submodule "digitalfarms-frontend"]
 	path = digitalfarms-frontend
 	url = https://github.com/GusLem/digitalfarms-frontend
+[submodule "digitalfarms-backend"]
+	path = digitalfarms-backend
+	url = https://github.com/GusLem/digitalfarms-backend
