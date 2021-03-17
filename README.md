@@ -42,6 +42,14 @@ InsertNetlifyButtonHere
 
 ### To run the Backend:
 
+Build and run the Spring Code
+
+Access ```/swagger-ui.html``` route for documentaton
+
+Access ```/src/test/java/com/challenge/DigitalFarm/resources``` package inside your IDE to see and execute tests
+
+### To run the Frontend:
+
 Install modules:
 
 ```npm i```
@@ -50,13 +58,7 @@ Then run the server:
 
 ```npm start```
 
-### To run the Frontend:
 
-Build and run the Spring Code
-
-Access ```/swagger-ui.html``` route for documentaton
-
-Access ```/src/test/java/com/challenge/DigitalFarm/resources``` package inside your IDE to see and execute tests
 
 
 
