@@ -40,7 +40,7 @@ To see the site working, click the following link:
 
 InsertNetlifyButtonHere
 
-To serve the site clone this repository with the following command:
+To serve the site, clone this repository with the following command:
 
 ```bash
 git clone https://github.com/GusLem/DigitalFarms --recursive
